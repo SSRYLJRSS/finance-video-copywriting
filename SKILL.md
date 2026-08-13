@@ -1,8 +1,8 @@
 ---
 name: finance-video-copywriting
-description: 泛财经新闻视频文案全流程生成（S0→S6）。给主题/参考文案写文案、分析参考文案、给主题选项、写大纲、写文章、做封面标题时触发。自包含通用版，无外部文件依赖。
+description: 泛财经短视频口播文案全流程生成（S0→S7 七步流水线）：拆解参考文案、收集核验资料、写大纲、产出1500-2000字口播稿、出封面标题、从改稿中自我学习。用户要写财经/社会热点/国际时政类短视频文案、口播稿、自媒体爆款文章、爽文打脸型内容、视频脚本，或给主题/参考文案要求写稿时触发。Generates viral Chinese finance short-video voiceover scripts via 7-step SOP (S0-S7): analyzes reference copy, collects verified facts, drafts outlines and 1500-2000 char scripts, creates cover titles, learns from user revisions. Trigger when writing finance/social-hotspot/international-affairs short-video copy, voiceover scripts, or wish-fulfillment face-slapping style content.
 version: 2.1.0
-tags: [writing, copywriting, finance, video-script]
+tags: [writing, copywriting, finance, video-script, 财经文案, 短视频, 口播稿, 自媒体, 爆款文案]
 ---
 
 # 泛财经新闻视频文案全流程生成
